@@ -22,8 +22,8 @@ Bau se bat krna
 |  LKG  |    64%   |
 |  HKG  |    32%   |
 
->[!Alert]
->Cutu is very very Mahan
+> [!Alert]
+> Cutu is very very Mahan
 
 ## **Know more about Cutu**
 [Cutu Mahan](https://www.youtube.com/)
