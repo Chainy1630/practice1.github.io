@@ -29,4 +29,7 @@ Bau se bat krna
 [Cutu Mahan](https://www.youtube.com/)
 
 ## **Mahan Cutu**
-![Me mahan Cutu](krypto.jpeg)
+![Me mahan Cutu](rio.jpg)
+
+I am very Mahan [^1]
+[^1]: Mahano ka Mahano
